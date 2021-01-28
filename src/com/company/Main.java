@@ -68,6 +68,7 @@ public class Main {
         }else{
             System.out.println("You are getting there but still not quate a magic square");
             return false;
+
         }
     }
 }
